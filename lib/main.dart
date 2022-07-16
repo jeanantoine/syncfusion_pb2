@@ -60,14 +60,14 @@ class IconTest extends StatelessWidget {
 }
 
 var data = <ChartData>[
-  ChartData(0, 21),
-  ChartData(1, 21),
-  ChartData(2, 24),
+  // ChartData(0, 21),
+  // ChartData(1, 21),
+  // ChartData(2, 24),
   ChartData(3, 36),
   ChartData(4, 38),
   ChartData(5, 54),
   ChartData(6, 54),
-  ChartData(7, 70),
+  // ChartData(7, 70),
 ];
 
 class ChartData {
